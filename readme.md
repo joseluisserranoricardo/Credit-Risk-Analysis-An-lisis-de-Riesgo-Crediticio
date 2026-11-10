@@ -2,10 +2,8 @@
 
 **Machine Learning · Credit Risk Modeling · XGBoost · Python · Probability of Default**
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification-orange)
-![XGBoost](https://img.shields.io/badge/Model-XGBoost-green)
-![Project](https://img.shields.io/badge/Project-Credit%20Risk-purple)
+<img width="1589" height="1082" alt="dashboard_riesgo_calibrado" src="https://github.com/user-attachments/assets/d19f1bda-8c35-41d3-b1cd-ecae30df3d41" />
+
 
 ---
 
